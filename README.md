@@ -1,2 +1,0 @@
-# skill-bridge
-skill-bridge
